@@ -95,3 +95,40 @@ The **OCI Data Science Professional Course** empowers you to become proficient i
 ---
 
 **© Oracle Cloud Infrastructure | Data Science Professional Learning Path**
+
+---
+
+## Repository guide
+
+### Contents
+
+- [Books](Books)
+- [Chapter - 1 - Introduction and Configuration](Chapter%20-%201%20-%20Introduction%20and%20Configuration)
+- [Chapter - 2 - Workspace Design and Setup](Chapter%20-%202%20-%20Workspace%20Design%20and%20Setup)
+- [Chapter - 3 - Machine Learning Lifecycle](Chapter%20-%203%20-%20Machine%20Learning%20Lifecycle)
+- [Chapter - 4 - MLOps Practices](Chapter%20-%204%20-%20MLOps%20Practices)
+- [Chapter - 5 - Related OCI Services](Chapter%20-%205%20-%20Related%20OCI%20Services)
+- [README.md](README.md)
+
+### Getting started
+
+```bash
+git clone https://github.com/Raimal-Raja/Certified-Oracle-Cloud-Infrastructure-Data-Science-Professional-2025.git
+cd Certified-Oracle-Cloud-Infrastructure-Data-Science-Professional-2025
+```
+
+Open the relevant .ipynb notebook in Jupyter or a compatible notebook environment. Inspect its dependency and data-loading cells before running; there is no single shared application entry point.
+
+### Configuration and limitations
+
+### Validation
+
+Reviewed on 2026-10-08. Python syntax checks passed for 1 source files. Syntax validation does not establish runtime correctness or dependency compatibility.
+
+### Contributions
+
+Describe the issue, reproduction steps, environment, and expected behavior when proposing a change. Keep generated environments, credentials, and unnecessary build artifacts out of new commits.
+
+### License
+
+No top-level license file was found during this review.
