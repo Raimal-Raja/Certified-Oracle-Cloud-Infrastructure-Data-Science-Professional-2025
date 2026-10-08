@@ -98,9 +98,9 @@ The **OCI Data Science Professional Course** empowers you to become proficient i
 
 ---
 
-## Repository guide
+## Setup and repository reference
 
-### Contents
+### Project structure
 
 - [Books](Books)
 - [Chapter - 1 - Introduction and Configuration](Chapter%20-%201%20-%20Introduction%20and%20Configuration)
@@ -108,7 +108,6 @@ The **OCI Data Science Professional Course** empowers you to become proficient i
 - [Chapter - 3 - Machine Learning Lifecycle](Chapter%20-%203%20-%20Machine%20Learning%20Lifecycle)
 - [Chapter - 4 - MLOps Practices](Chapter%20-%204%20-%20MLOps%20Practices)
 - [Chapter - 5 - Related OCI Services](Chapter%20-%205%20-%20Related%20OCI%20Services)
-- [README.md](README.md)
 
 ### Getting started
 
@@ -121,9 +120,15 @@ Open the relevant .ipynb notebook in Jupyter or a compatible notebook environmen
 
 ### Configuration and limitations
 
+Read the module notes before attempting OCI labs. Cloud examples require their own account configuration, permissions and data. No OCI training job or deployment was performed.
+
 ### Validation
 
-Reviewed on 2026-10-08. Python syntax checks passed for 1 source files. Syntax validation does not establish runtime correctness or dependency compatibility.
+Audit: 2026-10-08. Repository structure, setup instructions and description were reviewed. 1 existing Python files passed syntax checks; changed files and new regression tests were checked separately. Syntax checks do not establish full runtime correctness. External APIs, live scraping, GUI interaction, notebook training and production deployment were not comprehensively exercised.
+
+### Repository description
+
+The short GitHub description is provided in [REPOSITORY_DESCRIPTION.md](REPOSITORY_DESCRIPTION.md).
 
 ### Contributions
 
